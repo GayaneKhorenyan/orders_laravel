@@ -1,0 +1,16 @@
+form .ng-invalid-required.ng-dirty {
+    background-color: lightpink;
+}
+
+form .ng-invalid-email.ng-dirty {
+    background-color: lightgoldenrodyellow;
+}
+
+form .ng-valid.ng-dirty {
+    background-color: #cfeecb;
+}
+
+div.error {
+    color: red;
+    font-weight: 100;
+}
